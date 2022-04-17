@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/google-doodle/static/css/main.5aa66bcd.css",
+    "main.js": "/google-doodle/static/js/main.b28a8a6f.js",
+    "static/media/267503460_958099581468530__n.jpg": "/google-doodle/static/media/267503460_958099581468530_5160424842287441270_n.7a62fa2756c87519cb85.jpg",
+    "static/media/instagram.png": "/google-doodle/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/linkedin.png": "/google-doodle/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/google-doodle/index.html",
+    "main.5aa66bcd.css.map": "/google-doodle/static/css/main.5aa66bcd.css.map",
+    "main.b28a8a6f.js.map": "/google-doodle/static/js/main.b28a8a6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aa66bcd.css",
+    "static/js/main.b28a8a6f.js"
+  ]
+}
